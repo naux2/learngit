@@ -1,0 +1,2 @@
+this is Naux's first file which want save in Git!
+THX Blog.
