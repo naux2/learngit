@@ -3,3 +3,4 @@ THX the Blog.
 Second day! Change Something. I am sure this line will be deleted by Git .
 Another test For Statge And Master area
 Git manager Change 
+line6
