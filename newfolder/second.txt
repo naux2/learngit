@@ -1,0 +1,4 @@
+this is Naux's first file which want save in Git!
+THX the Blog.
+Second day! Change Something. I am sure this line will be deleted by Git .
+Another test For Statge And Master area
